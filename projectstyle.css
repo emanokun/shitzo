@@ -1,0 +1,21 @@
+button[type=button], button[type=submit], button[type=reset] {
+    background-color: #7aa8b7;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 6px;
+    outline: none;
+    text-align: center;
+    display: inline-block;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+div.c {
+    text-indent: 30%;
+}
